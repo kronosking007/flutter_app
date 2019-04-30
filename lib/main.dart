@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return  MaterialApp(
-      title: "My new Stateless App",
+      title: "My new Stateless Widget",
       home: MyCity(), // this is stateful widget
     );
   }
